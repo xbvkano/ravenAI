@@ -24,28 +24,13 @@ endpoint = os.getenv("ENDPOINT")
 #             ]
 
 characters = [
-    "Heimerdinger - Arcane",
-    "Lord Sylas Briarwood - Critical Role",
-    "Cazador - Baldurs Gate 3",
-    "Enrico Pucci - Jojo",
-    "Diavolo - Jojo",
-    "Yoshikage Kira - Jojo",
-    "Koichi Hirose - Jojo",
-    "Elijah Kamski - Jojo",
-    "Leon S. Kennedy - Resident Evil",
-    "Jodie Holmes - Beyond: Two Souls",
-    "Nathan Dawkins - Beyond: Two Souls",
-    "Gru - Despicable Me",
-    "Mario - Mario",
-    "Lorax - The Lorax",
-    "Mirio Togata - My Hero Academia",
-    "Cercei Lannister - Game of Thrones"
+    "viktor - arcane",
 ]
 
 
 # Define your search query and folder
 # query = "Megumi Fushiguro - Jujutsu Kaisen"
-folder_path = "./images/bad_test"
+folder_path = "./predictions"
 # tag_name = "Megumi"
 
 # Create the folder if it doesn't exist

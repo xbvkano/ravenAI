@@ -24,7 +24,7 @@ endpoint = os.getenv("ENDPOINT")
 #             ]
 
 characters = [
-    "viktor - arcane",
+    "Johnny - Jojo's Bizarre Adventure",
 ]
 
 
